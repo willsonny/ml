@@ -1,0 +1,15 @@
+RID,age,income,student,credit_rating,class_buys_computer
+1,young,high,no,fair,no
+2,young,high,no,excellent,no
+3,middle_aged,high,no,fair,yes
+4,senior,middle,no,fair,yes
+5,senior,low,yes,fair,yes
+6,senior,low,yes,excellent,no
+7,middle_aged,low,yes,excellent,yes
+8,young,middle,no,fair,no
+9,young,low,yes,fair,yes
+10,senior,middle,yes,fair,yes
+11,young,middle,yes,excellent,yes
+12,middle_aged,middle,no,excellent,yes
+13,middle_aged,high,yes,fair,yes
+14,senior,middle,no,excellent,no
